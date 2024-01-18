@@ -1,0 +1,6 @@
+As frutas são:
+-> Laranja
+-> Acabaxi
+-> Melão
+-> Limão
+-> Goiaba
